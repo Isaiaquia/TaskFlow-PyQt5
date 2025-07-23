@@ -1,0 +1,7 @@
+PyQt5
+SQLAlchemy
+pytest
+pytest-qt
+matplotlib
+qdarkstyle
+plyer
